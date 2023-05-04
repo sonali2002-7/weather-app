@@ -1,0 +1,14 @@
+
+
+
+cloud_pct = response class.cloud_pct
+temp = response class.temp
+feels_like = response class.feels_like
+humidity = response class.humidity
+min_temp = response class.min_temp
+max_temp = response class.max-temp
+wind_speed = response class.wind-speed
+wind_degrees= response class.wind_degrees
+sunrise = response class.sunrise
+sunset = response class.sunset
+
